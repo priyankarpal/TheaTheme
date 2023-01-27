@@ -1,0 +1,41 @@
+{
+  "name": "theatheme",
+  "displayName": "Thea Theme",
+  "description": "Thea is multicolor theme. It is an Open Source Theme.",
+  "version": "0.0.1",
+  "publisher": "PriyankarPal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/priyankarpal/TheaTheme"
+  },
+  "bugs": {
+    "url": "https://github.com/priyankarpal/TheaTheme",
+    "email": "priyankarpal9@gmail.com"
+  },
+  "icon": "/images/icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Thea Theme",
+    "Thea Theme For vscode",
+    "Best Theme for Coders",
+    "Dark UI theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "uiTheme": "vs-dark",
+        "label": "Grey Theme",
+        "path": "./themes/grey-color-theme.json"
+      }
+    ]
+  }
+}
