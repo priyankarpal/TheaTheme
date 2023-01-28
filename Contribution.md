@@ -18,4 +18,4 @@ If you want to contribute your code you can follow this guide.
 - Commit your changes `git commit -m "Your Changes"`
 - Add upstream command `git remote add upstream https://github.com/priyankarpal/TheaTheme.git `
 -  Push your code `git push origin <name-of-your-branch>`
-- Create PR 
+- Create PR.
