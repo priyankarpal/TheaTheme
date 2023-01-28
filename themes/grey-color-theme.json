@@ -1,10 +1,10 @@
 {
 	"name": "Grey Theme",
 	"colors": {
-		"editor.background": "#1d2021",
+		"editor.background": "#1b1d1e",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#ff0000",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#ffffff"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +15,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#4a4d4e"
 			}
 		},
 		{
