@@ -1,4 +1,3 @@
-# Thea Theme 
 ![Thea Theme](/images/banner.png)
 
  - Thea theme is a visually stunning color scheme for the popular code editor, Visual Studio Code. This theme offers a sleek and modern design, with carefully curated colors that are easy on the eyes while providing a high level of contrast for improved code readability. 
