@@ -2,14 +2,14 @@
   "name": "theatheme",
   "displayName": "Thea Theme",
   "description": "Thea is multicolor theme. It is an Open Source Theme.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "PriyankarPal",
   "repository": {
     "type": "git",
     "url": "https://github.com/priyankarpal/TheaTheme"
   },
   "bugs": {
-    "url": "https://github.com/priyankarpal/TheaTheme",
+    "url": "https://github.com/priyankarpal/TheaTheme/issues/new",
     "email": "priyankarpal9@gmail.com"
   },
   "icon": "images/icon.png",
@@ -34,7 +34,12 @@
       {
         "uiTheme": "vs-dark",
         "label": "Grey Theme",
-        "path": "./themes/grey-color-theme.json"
+        "path": "/themes/grey-color-theme.json"
+      },
+      {
+        "label": "Light Theme",
+        "uiTheme": "vs",
+        "path": "/themes/light-color-theme.json"
       }
     ]
   }

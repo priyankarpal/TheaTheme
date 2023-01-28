@@ -9,4 +9,6 @@ All notable changes to the "Thea Theme" extension will be documented in this fil
 - 0.0.3 version added
 - 0.0.4 version added
 - 0.0.5 version added
+- 0.0.6 version added
+
 

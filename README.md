@@ -1,2 +1,3 @@
 # Thea Theme 
-Thea are lots of color theme inside it. It's a Open Source Theme. You can contribute it here.
+Thea are lots of color theme inside it. Don't forget to install it.
+Contact me from here https://linkfree.eddiehub.io/priyankarpal
